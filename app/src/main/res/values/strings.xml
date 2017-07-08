@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Custom_Action_Bar</string>
+    <string name="custom_action_bar">Custom Action Bar</string>
+    <string name="left_menu_button">left menu button</string>
+    <string name="search">Search</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="all_users">All Users</string>
+</resources>
